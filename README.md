@@ -7,5 +7,5 @@
 
 | YYMMDD (Total) | Titles | Pages | Takeaways |
 |:---:|---:|:---:|:---|
-| 251125 | 밑바닥부터 만들면서 배우는 LLM / Appendix A | 50 |  |
+| 251215 | [Beyond the Basic Stuff with Python](https://dn721805.ca.archive.org/0/items/ebooks_202307/beyondthebasicstuffwithpython.pdf) | 22-26, 30-33 |  |
 |  |  |  |  |
